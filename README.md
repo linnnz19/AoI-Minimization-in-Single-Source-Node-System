@@ -2,5 +2,5 @@
 
 41108610 通訊三 林紘毅
 
-To 裕彬,  
+To whom it may concern,  
 You are more than welcome to check the code if you're interested! 
