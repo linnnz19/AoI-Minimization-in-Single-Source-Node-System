@@ -1,6 +1,6 @@
 # Queueing-Theory-Project-Program
 
-Author: 41108610 林紘毅 Hung-Yi Lin
+Author: 林紘毅 Hung-Yi Lin
 ------------------------------------------
 To whom it may concern,  
 
